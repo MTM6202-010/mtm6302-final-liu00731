@@ -20,9 +20,11 @@ Moments of Joy is a simple gratitude journal web app. It helps users record smal
 Kexin Liu
 
 ## Project Documentation
-- Application Plan: `docs/application-plan.pdf`
-- Low-Fidelity Wireframes: `docs/wireframes/`
-- Communication Log: `docs/communication-log.md`
+
+- [Application Plan](docs/application-plan.md)
+- [Desktop Wireframe](docs/wireframes/desktop-wireframe.md)
+- [Mobile Wireframe](docs/wireframes/mobile-wireframe.md)
+- [Communication Log](docs/communication-log.md)
 
 ## Project Status
 Milestone 2 – Planning and Low-Fidelity Wireframes.
